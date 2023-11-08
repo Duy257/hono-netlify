@@ -1,0 +1,22 @@
+{
+  "name": "hono-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duy257/hono-netlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duy257/hono-netlify/issues"
+  },
+  "homepage": "https://github.com/Duy257/hono-netlify#readme",
+  "dependencies": {
+    "hono": "^3.9.2"
+  }
+}
